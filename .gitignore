@@ -1,0 +1,7 @@
+# develop
+Info.fcpxml
+*.fcpxmld
+FCPtimemarker.txt
+
+# other
+.DS_Store
