@@ -11,11 +11,14 @@
 
 ![image](https://github.com/whitewatercn/FCPexport/assets/58654928/f02551f7-0324-4963-b969-62f916aecbe0)
 
-查看包内容，你将得到一个`Info.fcpxml`文件，里面记录了你所有固定下来的剪辑操作，包括时间轴标记
 
-![image](https://github.com/whitewatercn/FCPexport/assets/58654928/dc2fead5-9dca-4ac2-a5be-8b109f16a769)
 
-将这个`Info.fcpxml`和本项目的`main.py`放在同一目录，运行`python main.py`即可获得一个`FCPtimemarker.txt`文件，打开就是比较通用的的时间轴啦
+运行`python main.py -i xxx.fcpxml文件的路径`，比如
+```shell
+python main.py -i '/Users/ww/coding/FinalCutPro-timestamp-export/针灸第一期.fcpxmld' 
+```
+
+即可获得一个`FCPtimemarker.txt`文件，打开就是比较通用的的时间轴啦
 ```
 00:02 小白尽话论新系列！
 00:32 嘉宾介绍：来自杏林印象的James和来自茶余课后的惊奇队长
