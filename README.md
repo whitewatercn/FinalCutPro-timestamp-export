@@ -9,7 +9,7 @@
 
 选择文件-导出xml，即可导出一个`.fcpxmld`文件包
 
-![image](https://github.com/whitewatercn/FCPexport/assets/58654928/f02551f7-0324-4963-b969-62f916aecbe0)
+<img width="157" height="165" alt="image" src="https://github.com/user-attachments/assets/bbe8d778-12be-4a83-9830-5f550b46d1e7" />
 
 
 
